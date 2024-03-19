@@ -6,11 +6,12 @@ import Header from "./header.jsx"
 import Cards from "./cards.jsx"
 import Footer from "./footer.jsx"
 
+
 const Home = () => {
 	return (
 		<div>
 			< Nav />
-			< Header /> //"Jumbotron"
+			< Header /> {/*Jumbotron*/}
 			< Cards />
 			< Footer />
 		</div>
